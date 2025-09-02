@@ -23,4 +23,4 @@ The model used here is a **Linear Regression Model** trained on a cleaned car da
 - **Joblib** (for loading the ML model)  
 
 ---
-[Open Car Price Predictor App]([https://mkg6573-ipl-ipl-0fd6uy.streamlit.app/](https://car-price-predictor-ggukny5bcugkfe27rp9ezx.streamlit.app/))
+[Open Car Price Predictor App]  https://mkg6573-ipl-ipl-0fd6uy.streamlit.app/](https://car-price-predictor-ggukny5bcugkfe27rp9ezx.streamlit.app/
