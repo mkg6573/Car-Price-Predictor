@@ -5,7 +5,7 @@ import numpy as np
 
 LRmodel = joblib.load("LineraRegressionModel.pkl")
 
-data = pd.read_csv(r"C:\Users\mohit\OneDrive\Desktop\DS\ML\Project\Car Price Predictor\clean_car.csv")
+data = pd.read_csv(r"clean_car.csv")
 company = data['company'].unique()
 name = data['name'].unique()
 
