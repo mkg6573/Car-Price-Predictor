@@ -1,6 +1,7 @@
 # 🚗 Car Price Prediction App  
 
-[Open Car Price Predictor App]  https://mkg6573-ipl-ipl-0fd6uy.streamlit.app/](https://car-price-predictor-ggukny5bcugkfe27rp9ezx.streamlit.app/
+Check out the live app here:  
+[![Launch App](https://img.shields.io/badge/Launch-App-blue?style=for-the-badge&logo=streamlit)](https://car-price-predictor-ggukny5bcugkfe27rp9ezx.streamlit.app/)
 
 This is a **Machine Learning-based Web Application** built with **Streamlit** that predicts the price of a used car based on various features like **company, model, fuel type, year of purchase, and kilometers driven**.  
 
